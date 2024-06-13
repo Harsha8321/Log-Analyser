@@ -1,0 +1,1 @@
+Apr 01 00:00:00 Stealth kernel: [3483] ERROR CPU temperature above threshold: temperature=80°C
